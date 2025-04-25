@@ -12,7 +12,14 @@ public class Main {
 		while (true) {
 			
 			System.out.println("Dime un número: (0 para salir del bucle)");
+			
+			try {
 			input = sc.nextInt();
+			}
+			catch (Exception ex) {
+				System.out.println("Dime un numerín.");
+			}
+			
 			HolaMundoENDES(input);
 			
 			if (input == 0)
