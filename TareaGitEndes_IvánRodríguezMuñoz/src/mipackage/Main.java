@@ -5,14 +5,19 @@ public class Main {
 	public static void main(String[] args) {
 		
 		
-		HolaMundoENDES();
+		
+		HolaMundoENDES(9);
+		HolaMundoENDES(15);
 		
 		
 	}
 	
-	public static void HolaMundoENDES() {
+	public static void HolaMundoENDES(int numero) {
 		
-		System.out.println("Hola, Mundo!");
+		if (numero > 10)
+			System.out.println("Hola, Mundo!");
+		else
+			System.out.println("Adiós, Mundo!");
 		
 	}
 	
