@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"virtual_ivánrodríguez_e2ejer2","l":"Coche"},{"p":"virtual_ivánrodríguez_e2ejer2","l":"EVAL2B_IvánRodríguez_E2ejer2"}];updateSearchResults();

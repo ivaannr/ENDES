@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"virtual_ivánrodríguez_e2ejer2"}];updateSearchResults();
